@@ -1,4 +1,4 @@
-This App uses Restful API provided by Weather Undergraound to display weather current observations - 
+This App uses Restful API provided by Weather Undergraound service to display weather current observations - 
 
 
 

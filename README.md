@@ -5,4 +5,3 @@ This App uses Restful API provided by Weather Undergraound service to display we
 Weather App v1.1
 
 
-https://play.google.com/store/apps/details?id=com.phonegap.WUGF7
